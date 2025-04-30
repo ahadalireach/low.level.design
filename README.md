@@ -24,8 +24,12 @@ This is a repository that I'm currently working on to **learn** and **create use
   - [🔗 Basic Principles of OOP (Object-Oriented Programming)](https://dev.to/ahadalireach/basic-principles-of-object-oriented-programming-oop-544l)
   - [🔗 OOP Concepts + 150+ Interview Questions (GitHub Repo)](https://github.com/ahadalireach/oop.concepts.interview.questions)
 
-- **Design Principles** _(currently learning)_
-- **UML (Unified Modeling Language)**
+- **Design Principles**
+  - [🔗 DRY (Don't Repeat Yourself)](https://dev.to/ahadalireach/the-dry-principle-50hh)
+  - [🔗 KISS (Keep It Simple Stupid))](https://dev.to/ahadalireach/the-kiss-principle-564)
+  - [🔗 YAGNI (You Aren't Gonna Need It)](https://dev.to/ahadalireach/the-yagni-principle-2a6d)
+  - [🔗 SOLID Principles)](https://dev.to/ahadalireach/solid-principles-demystified-master-them-once-and-for-all-3ib0)
+- **UML (Unified Modeling Language)** _(currently learning)_
 - **Design Patterns**
 - **Case Studies & Practice Problems** _(coming soon)_
 
